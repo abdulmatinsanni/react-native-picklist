@@ -7,7 +7,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaoxiaosong/react-native-picklist.git"
+    "url": "https://github.com/abdulmatinsanni/react-native-picklist.git"
   },
   "keywords": [
     "React-Native",
@@ -17,10 +17,10 @@
   "author": "Xiaosong Gao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gaoxiaosong/react-native-picklist/issues",
-    "email": "gaoxiaosong06@gmail.com"
+    "url": "https://github.com/abdulmatinsanni/react-native-picklist/issues",
+    "email": "abdulmatin.i.sanni@gmail.com"
   },
-  "homepage": "https://github.com/gaoxiaosong/react-native-picklist#readme",
+  "homepage": "https://github.com/abdulmatinsanni/react-native-picklist#readme",
   "dependencies": {
     "@hecom/image-arrow": "^1.0.0",
     "general-tree": "^1.1.4",
