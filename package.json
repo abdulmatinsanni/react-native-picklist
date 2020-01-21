@@ -1,5 +1,5 @@
 {
-  "name": "react-native-picklist",
+  "name": "@abdulmatinsanni/react-native-picklist",
   "version": "1.3.3",
   "private": false,
   "description": "General page for single/multiple select/show with single/multiple data level.",
@@ -14,7 +14,7 @@
     "PickList",
     "MultiSelect"
   ],
-  "author": "Xiaosong Gao",
+  "author": "Abdulmatin Sanni",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/abdulmatinsanni/react-native-picklist/issues",
